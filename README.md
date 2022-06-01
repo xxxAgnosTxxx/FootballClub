@@ -1,2 +1,2 @@
 # FootballClub
-Тестовое задание для KeenEye Lab
+KeenEye Lab
